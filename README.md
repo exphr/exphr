@@ -32,18 +32,12 @@
 </p>
 
 <p align="left">
-【﻿ｎｅｏｆｅｔｃｈ】 ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░
+【﻿ｎｅｏｆｅｔｃｈ】 ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img width="100%" src="https://www.gitskins.com/api/section/stats?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
-  </picture>
-</p>
-
+<img align="right" width="48%" src="https://www.gitskins.com/api/section/hero?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
 <p align="left">
-【ｃｏｎｔｒｉｂｕｔｉｏｎｓ】 ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░
+    <img align="left" width="48%" src="https://www.gitskins.com/api/section/stats?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
 </p>
 
 <p align="center">
