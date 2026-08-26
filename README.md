@@ -1,3 +1,7 @@
+```bash
+# Look in Desktop Mode (mobile broken). My Original README.md :3 [ DON'T STEAL ヾ(≧へ≦)〃 ]
+```
+
 <p align="center">
 <img align=right width="20%" src="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
 <div align="left">
@@ -26,7 +30,7 @@
 {
   "main_acc" : "exphert",
   "status"   : "401: Shadow Banned",
-  "reason"   : "ERR: Deploy Malfunction."
+  "reason"   : "ERR: Deploy Malfunction, rebooting..."
 }
 ```
 </div>
