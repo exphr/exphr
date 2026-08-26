@@ -3,7 +3,7 @@
 <div align="left">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-      <img width="88%" src="https://www.gitskins.com/api/section/wordmark?username=exphr&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+      <img width="78%" src="https://www.gitskins.com/api/section/wordmark?username=exphr&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
     </picture>
 </div>
 </p>
