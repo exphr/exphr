@@ -1,5 +1,5 @@
 <p align="center">
-<img align=right width="200" src="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+<img align=right width="20%" src="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
 <div align="left">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
