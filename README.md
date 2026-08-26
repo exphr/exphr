@@ -1,9 +1,9 @@
 <p align="center">
-<img align=right width="25%" src="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+<img align=right width="200" src="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
 <div align="left">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-      <img width="70%" src="https://www.gitskins.com/api/section/wordmark?username=exphr&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+      <img width="78%" src="https://www.gitskins.com/api/section/wordmark?username=exphr&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
     </picture>
 </div>
 </p>
@@ -11,21 +11,22 @@
 <img align=center width="100%" src="./gh_img/about_black.png"/>
 
 <p align="center">
-<img align=right width="65%" src="https://www.gitskins.com/api/section/hero?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+<img align=right width="300" src="https://i.pinimg.com/736x/41/a2/ba/41a2bad0074d411bcd011f5a7a29aad3.jpg"/>
 <div align="left">
 
 ```json
 {
-  "name": "Surya H.S",
-  "desc": "Security Researcher & Fullstack Developer",
-  "role": ["Fullstack Dev", "CyberSec || RedTeam"],
-  "lang": ["id.ID", "en.EN"],
-  "os": ["windows", "linux"],
-  "ext": [
-        ".php", ".py", ".css",
-        ".js", ".ts", ".java",
-        ".c", ".cpp"
-        ],
+  "name" : "Surya H.S",
+  "desc" : "Security Researcher & Fullstack Developer",
+  "role" : ["Fullstack Dev", "CyberSec || RedTeam"],
+  "lang" : ["id.ID", "en.EN"],
+  "ext"  : [".php", ".py", ".css", ".js", ".ts", ".java", ".c", ".cpp"],
+  "os"   : ["windows", "linux"]
+},
+{
+  "main_acc" : "exphert",
+  "status"   : "401: Shadow Banned",
+  "reason"   : "ERR: Deploy Malfunction."
 }
 ```
 </div>
@@ -40,10 +41,11 @@
 
 <img align=center width="100%" src="./gh_img/contribute_black.png"/>
 
-<p align="center">
+<img align=right width="180" src="https://i.pinimg.com/736x/78/30/75/78307527f0069b1d6cc42d7343ec2de3.jpg"/>
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img width="100%" src="https://www.gitskins.com/api/section/heatmap?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
+    <img width="80%" src="https://www.gitskins.com/api/section/heatmap?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
   </picture>
 </p>
 
