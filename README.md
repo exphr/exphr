@@ -41,7 +41,7 @@
 
 <img align=center width="100%" src="./gh_img/contribute_black.png"/>
 
-<img align=right width="18%" src="https://i.pinimg.com/736x/78/30/75/78307527f0069b1d6cc42d7343ec2de3.jpg"/>
+<img align=right width="17%" src="https://i.pinimg.com/736x/78/30/75/78307527f0069b1d6cc42d7343ec2de3.jpg"/>
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
