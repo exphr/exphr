@@ -1,11 +1,3 @@
-# asamassekou10
-
-> Memorable developer positioning.
-
-## Header
-
-Hi, I'm **asamassekou10**. This README shares what I'm building, the tools I use, and the work I'm proud of.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
