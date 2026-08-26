@@ -8,7 +8,7 @@
 </div>
 </p>
 
-<img align=center width="100%" src="./gh_img/about.png"/>
+<img align=center width="100%" src="./gh_img/about_black.png"/>
 
 <p align="center">
 <img align=right width="65%" src="https://www.gitskins.com/api/section/hero?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
@@ -31,14 +31,14 @@
 </div>
 </p>
 
-<img align=center width="100%" src="./gh_img/neofetch.png"/>
+<img align=center width="100%" src="./gh_img/neofetch_black.png"/>
 
 <img align="right" width="48%" src="https://www.gitskins.com/api/section/hero?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
 <p align="left">
     <img align="left" width="48%" src="https://www.gitskins.com/api/section/stats?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
 </p>
 
-<img align=center width="100%" src="./gh_img/contribute.png"/>
+<img align=center width="100%" src="./gh_img/contribute_black.png"/>
 
 <p align="center">
   <picture>
@@ -47,7 +47,7 @@
   </picture>
 </p>
 
-<img align=center width="100%" src="./gh_img/links.png"/>
+<img align=center width="100%" src="./gh_img/links_black.png"/>
 
 <p align="center">
   <picture>
