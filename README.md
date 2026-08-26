@@ -8,7 +8,7 @@
 </div>
 </p>
 
-【﻿ａｂｏｕｔ】███████▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░
+<img align=center width="100%" src="./gh_img/about.png"/>
 
 <p align="center">
 <img align=right width="65%" src="https://www.gitskins.com/api/section/hero?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
@@ -31,14 +31,14 @@
 </div>
 </p>
 
-<p align="left">
-【﻿ｎｅｏｆｅｔｃｈ】 ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░
-</p>
+<img align=center width="100%" src="./gh_img/neofetch.png"/>
 
 <img align="right" width="48%" src="https://www.gitskins.com/api/section/hero?username=exphr&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
 <p align="left">
     <img align="left" width="48%" src="https://www.gitskins.com/api/section/stats?username=exphr&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
 </p>
+
+<img align=center width="100%" src="./gh_img/contribute.png"/>
 
 <p align="center">
   <picture>
@@ -47,9 +47,7 @@
   </picture>
 </p>
 
-<p align="left">
-【﻿ｌｉｎｋｓ】 ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░
-</p>
+<img align=center width="100%" src="./gh_img/links.png"/>
 
 <p align="center">
   <picture>
