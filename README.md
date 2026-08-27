@@ -21,7 +21,7 @@
 ```json
 {
   "name" : "Surya H.S",
-  "desc" : "Security Researcher & Fullstack Developer",
+  "desc" : "Fullstack Developer & Red Teamers",
   "role" : ["Fullstack Dev", "CyberSec || RedTeam"],
   "lang" : ["id.ID", "en.EN"],
   "ext"  : [".php", ".py", ".css", ".js", ".ts", ".java", ".c", ".cpp"],
