@@ -24,7 +24,7 @@
   "desc" : "Fullstack Developer & Red Teamers",
   "role" : ["Fullstack Dev", "CyberSec || RedTeam"],
   "lang" : ["id.ID", "en.EN"],
-  "ext"  : [".php", ".py", ".css", ".js", ".ts", ".java", ".c", ".cpp"],
+  "ext"  : [".php", ".py", ".html", ".css", ".js", ".ts", ".rs", ".java", ".c", ".cpp"],
   "os"   : ["windows", "linux"]
 },
 {
