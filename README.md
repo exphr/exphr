@@ -3,13 +3,14 @@
 ```
 
 <p align="center">
-<img align=right width="20%" src="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
-<div align="left">
+<img align=right width="100%" src="https://www.gitskins.com/api/section/system-scan?username=phr7&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+<!-- <img align=right width="20%" src="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/> -->
+<!-- <div align="left">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
       <img width="77%" src="https://www.gitskins.com/api/section/wordmark?username=phr7&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
     </picture>
-</div>
+</div> -->
 </p>
 
 <img align=center width="100%" src="./gh_img/about.webp"/>
